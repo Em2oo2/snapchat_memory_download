@@ -1,11 +1,3 @@
-That’s a great idea. The Snapchat subreddit is full of people frustrated by the 5GB limit and the broken export tool. Providing a "one-click" ZIP solution that fixes file extensions will be a huge hit.
-
-Since you're hosting this as a **Userscript** on GitHub, you should make the README clear for both "techy" and "non-techy" users.
-
-Here is a structured template for your `README.md`:
-
----
-
 # Snapchat Memory Downloader (Turbo ZIP)
 
 A powerful Tampermonkey/Userscript designed to fix Snapchat's "My Data" export. Instead of manually clicking thousands of broken links or dealing with incorrect file extensions, this script allows you to download your entire Snapchat history into a single, organized ZIP file directly from your browser.
